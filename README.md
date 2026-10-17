@@ -6,12 +6,14 @@
 2. 按「分享」。
 3. 選擇「GmapToKing」。
 短網址會在背景解開。成功後只會看到提示，接著進入導航王。
-
+- 提供清單可供使用者選擇跳轉至哪個導航王APP
+  
 ## 支援跳轉至
 1. 導航王 A6
 2. 導航王 3D Pro
-3. 導航王A5i (待實測)
-4. 導航王A5i3D+ (待實測)
+3. 導航王 A5i (待實測)
+4. 導航王 A5i3D+ (待實測)
+5. 導航王 N5 (待實測)
 
 都沒裝時，才會提示先安裝導航王。
 
@@ -20,6 +22,6 @@
 - 無相關權限需求。不讀取位置、通訊錄、簡訊或已安裝應用程式清單，安裝與使用時不會跳出權限請求。
 - 跳轉時不留在最近使用的工作清單。
 
-掃描報告：https://www.virustotal.com/gui/file-analysis/ZmU2MjFjNGNhMDI3Yzg2N2YwMmFlMTAxMjZmYTJiYjY6MTc5MTU1NDUzOA==
+掃描報告：[https://www.virustotal.com/gui/file/af30de83ab75b0e2fb1e75962e8e0216d40a62a13bc715349bb353694a1c9a26](https://www.virustotal.com/gui/file/af30de83ab75b0e2fb1e75962e8e0216d40a62a13bc715349bb353694a1c9a26)
 
 本工具與勤崴、樂客導航王無官方關係，只是把 Google Maps 分享連結轉成導航王可接收的座標。
